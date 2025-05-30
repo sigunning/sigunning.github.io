@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 markdown: kramdown
+title: Homepage for sigunning.github
 include:
   - CONTRIBUTING.md
   - README.md
@@ -14,4 +15,20 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 ## theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
+
+### Supported Jeckyll themes
+## https://pages.github.com/themes/
+## Architect
+## Cayman
+## Dinky
+## Hacker
+## Leap day
+## Merlot
+## Midnight
+## Minima
+## Minimal
+## Modernist
+## Slate
+## Tactile
+## Time machine
